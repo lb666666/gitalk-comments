@@ -1,1 +1,1 @@
-# gitalk-comments
+# logl_gitalk_comments
